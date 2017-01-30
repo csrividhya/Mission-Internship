@@ -1,0 +1,2 @@
+//Code to set row and col to zero if any elt in that row & col =0 in a M*N matrix
+

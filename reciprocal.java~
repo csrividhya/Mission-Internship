@@ -1,0 +1,16 @@
+import java.io.*;
+import java.util.*;
+
+public class reciprocal
+{
+public static void main(String args[])
+{
+float n;
+float r;
+Scanner s = new Scanner(System.in);
+System.out.println("Enter number:");
+n=s.nextInt();
+r=1/n;
+System.out.println(r);
+}//main
+}//reciprocal
